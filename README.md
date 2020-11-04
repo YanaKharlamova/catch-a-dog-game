@@ -31,4 +31,4 @@ To play this game and to update data automatically, you just need to run code wi
 `sass --watch style.sass style.css`
 ## Screenshot
 ![](screenshot/catch-a-dog-game.PNG)
-
+![](screenshot/catch-a-dog-game2.PNG)

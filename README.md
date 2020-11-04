@@ -27,5 +27,5 @@ The core structure of this project are formed by these few main functions:
 
 **function catchDog()**
 ## Installing
-To play this game, you just need to run it with this command in your terminal():
-`sass --watch input.scss output.css`
+To play this game and to update data automatically, you just need to run code with this command in your terminal():
+`sass --watch style.sass style.css`

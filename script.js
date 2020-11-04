@@ -43,7 +43,7 @@ function startGame() {
 }
 
 function catchDog(e) {
-  if (!e.isTrusted) return; //** new thing I learned */
+  if (!e.isTrusted) return;
   score++;
   this.parentNode.classList.remove("up"); //this refers to item clicked
   scoreBoard.textContent = score;

@@ -1,6 +1,8 @@
 # Catch a dog game
 ## Project description
 This is my JS game, where you must catch as many dogs as you can, while they are popping out different boxes randomly.
+
+Live version:  https://yanakharlamova.github.io/catch-a-dog-game/;
 ## Built with:
 * JS
 * HTML

@@ -7,7 +7,7 @@ Live version:  https://yanakharlamova.github.io/catch-a-dog-game/;
 * JS
 * HTML
 * CSS
-* sass
+* SCSS
 ## Implementation:
 The concept of my game was a tribute to "Whack a mole" classic game.
 The core structure of this project are formed by these few main functions:

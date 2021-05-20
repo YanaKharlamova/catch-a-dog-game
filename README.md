@@ -10,7 +10,7 @@ Live version:  https://yanakharlamova.github.io/catch-a-dog-game/;
 * SCSS
 ## Implementation:
 The concept of my game was a tribute to "Whack a mole" classic game.
-The core structure of this project are formed by these few main functions:
+The core structure of this project is formed by these few main functions:
 * A function to make a random time for dog to pop from the box:
 
 **function randomTime()**

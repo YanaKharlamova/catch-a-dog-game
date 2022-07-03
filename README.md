@@ -30,6 +30,7 @@ The core structure of this project is formed by these few main functions:
 **function catchDog()**
 ## Installing
 To play this game and to update data automatically, you just need to run code with these commands in your terminal():
+
 `npm i`;
 
 `npm i sass`;

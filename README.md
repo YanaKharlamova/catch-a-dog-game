@@ -35,7 +35,7 @@ To play this game and to update data automatically, you just need to run code wi
 
 `npm i sass`;
 
-`sass --watch style.sass style.css` - add this command to scripts in package.json file.
+`"sass": "sass --watch style.sass style.css"` - add this code to scripts in package.json file.
 
 And to actually run game: `npm run sass`
 ## Screenshot

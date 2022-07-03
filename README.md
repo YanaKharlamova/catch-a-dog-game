@@ -29,8 +29,10 @@ The core structure of this project is formed by these few main functions:
 
 **function catchDog()**
 ## Installing
-To play this game and to update data automatically, you just need to run code with this command in your terminal():
-`sass --watch style.sass style.css`
+To play this game and to update data automatically, you just need to run code with these commands in your terminal():
+`npm i`
+`npm i sass`
+`sass --watch style.sass style.css` -add this command to scripts in package.json file
 ## Screenshot
 **1.**
 
